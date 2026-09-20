@@ -19,14 +19,14 @@ Project ini menjawab tiga business question berikut:
 4. **Dashboard**: visualisasi interaktif untuk menjawab business question 2 dan 3.
 
 ## 🔍 Key Findings
-
+![harga](harga.jpeg)
 - **Kualitas data masih perlu ditingkatkan**
   - Proporsi missing value cukup tinggi di setiap kota.
   - Satuan pada beberapa variabel numerik tidak seragam.
   - Beberapa variabel belum memiliki definisi yang jelas, misalnya luas bangunan.
 - **Harga properti Jakarta paling tinggi**: harga di Jakarta cenderung lebih tinggi dibandingkan Tangerang, Depok, dan Bekasi.
 - **Depok berpotensi sebagai lokasi ekspansi**: letaknya relatif strategis sebagai penghubung beberapa wilayah Jabodetabek, dengan harga properti yang lebih terjangkau dibandingkan Jakarta.
- **Luas tidak mempengaruhi harga**
+
 
 ## 💡 Insight Utama
 
