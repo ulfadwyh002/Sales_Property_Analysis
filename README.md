@@ -26,20 +26,7 @@ Project ini menjawab tiga business question berikut:
   - Beberapa variabel belum memiliki definisi yang jelas, misalnya luas bangunan.
 - **Harga properti Jakarta paling tinggi**: harga di Jakarta cenderung lebih tinggi dibandingkan Tangerang, Depok, dan Bekasi.
 - **Depok berpotensi sebagai lokasi ekspansi**: letaknya relatif strategis sebagai penghubung beberapa wilayah Jabodetabek, dengan harga properti yang lebih terjangkau dibandingkan Jakarta.
-
-## 🏠 Karakteristik Rumah yang Paling Banyak Dijual
-
-**Wilayah Jakarta** (berdasarkan 105 listing)
-- **Rentang harga terbanyak**: Rp2,5-4 miliar (21 listing), diikuti Rp1,5-2,5 miliar (19 listing).
-- **Rata-rata luas bangunan**: ±209 m².
-- **Arah hadap terbanyak**: Timur dan Utara (data arah hadap belum lengkap).
-- **Lokasi dengan harga rata-rata tertinggi**: Jakarta Selatan.
-- **Jenis sertifikat dominan**: [isi: SHM/Lainnya] ([isi]%).
-
-**Seluruh Jabodetabek**
-- **Jumlah kamar tidur dan kamar mandi terbanyak**: [isi]
-- **Luas tanah dan luas bangunan terbanyak**: [isi]
-- **Rentang harga terbanyak per wilayah**: [isi]
+ **Luas tidak mempengaruhi harga**
 
 ## 💡 Insight Utama
 
