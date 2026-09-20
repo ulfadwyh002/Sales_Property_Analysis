@@ -47,13 +47,3 @@ Project ini menjawab tiga business question berikut:
 - **Terdapat perbedaan harga yang jelas antarwilayah.** Jakarta berada di segmen harga tertinggi, sedangkan Tangerang, Depok, dan Bekasi relatif lebih terjangkau.
 - **Kombinasi lokasi strategis dan harga terjangkau menjadikan Depok kandidat yang menarik** untuk kantor cabang berikutnya.
 
-
-## ✅ Rekomendasi
-
-### 1. Ekspansi Bisnis
-Pertimbangkan **Depok** sebagai lokasi kantor cabang RPPI berikutnya, berdasarkan lokasinya yang strategis dan harga properti yang relatif terjangkau dibandingkan Jakarta.
-### 2. Tata Kelola Data
-Bangun standar pengelolaan data yang lebih jelas, mencakup:
-- **Data dictionary**: definisi yang jelas untuk setiap variabel (misalnya luas bangunan).
-- **Standarisasi**: format dan satuan yang seragam di seluruh sumber data.
-- **Pembaruan dan validasi berkala**: agar data tetap konsisten, akurat, dan reliable untuk mendukung pengambilan keputusan bisnis.
