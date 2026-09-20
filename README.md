@@ -1,5 +1,5 @@
 # Analisis Pasar Properti Jabodetabek untuk Ekspansi Kantor Cabang RPPI
-
+> Collaborative Project — Data Analyst & Researcher
 ## 📌 Project Overview
 
 RPPI membutuhkan insight berbasis data untuk memahami kondisi pasar properti di wilayah **Jabodetabek** (Jakarta, Bogor, Depok, Tangerang, dan Bekasi) sebagai bahan pertimbangan ekspansi kantor cabang. Sebelum masuk ke analisis bisnis, RPPI ingin **mengevaluasi terlebih dahulu kualitas data properti yang mereka miliki**, agar data cukup andal untuk dijadikan dasar pengambilan keputusan.
