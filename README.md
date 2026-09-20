@@ -1,0 +1,59 @@
+# Analisis Pasar Properti Jabodetabek untuk Ekspansi Kantor Cabang RPPI
+
+## 📌 Project Overview
+
+RPPI membutuhkan insight berbasis data untuk memahami kondisi pasar properti di wilayah **Jabodetabek** (Jakarta, Bogor, Depok, Tangerang, dan Bekasi) sebagai bahan pertimbangan ekspansi kantor cabang. Sebelum masuk ke analisis bisnis, RPPI ingin **mengevaluasi terlebih dahulu kualitas data properti yang mereka miliki**, agar data cukup andal untuk dijadikan dasar pengambilan keputusan.
+Project ini menjawab tiga business question berikut:
+1. Bagaimana kualitas data properti yang dimiliki perusahaan?
+2. Bagaimana karakteristik dan pricing pasar properti, serta apakah terdapat perbedaan harga antarwilayah?
+3. Wilayah mana yang berpotensi menjadi lokasi kantor cabang RPPI berikutnya?
+
+## 🔄 Metodologi
+
+1. **Data Understanding**: memahami struktur dataset, variabel, dan kondisi awal data.
+2. **Data Preprocessing**
+   - *Data cleaning*: pengecekan missing value, duplikasi, konsistensi format dan tipe data, serta kategori atau nilai yang tidak sesuai.
+   - *Transformation*: penyeragaman format dan satuan.
+   - *Data integration*: penggabungan beberapa sumber data.
+3. **Exploratory Data Analysis (EDA)**: analisis distribusi harga, karakteristik properti, dan perbedaan harga antarwilayah.
+4. **Dashboard**: visualisasi interaktif untuk menjawab business question 2 dan 3.
+
+## 🔍 Key Findings
+
+- **Kualitas data masih perlu ditingkatkan**
+  - Proporsi missing value cukup tinggi di setiap kota.
+  - Satuan pada beberapa variabel numerik tidak seragam.
+  - Beberapa variabel belum memiliki definisi yang jelas, misalnya luas bangunan.
+- **Harga properti Jakarta paling tinggi**: harga di Jakarta cenderung lebih tinggi dibandingkan Tangerang, Depok, dan Bekasi.
+- **Depok berpotensi sebagai lokasi ekspansi**: letaknya relatif strategis sebagai penghubung beberapa wilayah Jabodetabek, dengan harga properti yang lebih terjangkau dibandingkan Jakarta.
+
+## 🏠 Karakteristik Rumah yang Paling Banyak Dijual
+
+**Wilayah Jakarta** (berdasarkan 105 listing)
+- **Rentang harga terbanyak**: Rp2,5-4 miliar (21 listing), diikuti Rp1,5-2,5 miliar (19 listing).
+- **Rata-rata luas bangunan**: ±209 m².
+- **Arah hadap terbanyak**: Timur dan Utara (data arah hadap belum lengkap).
+- **Lokasi dengan harga rata-rata tertinggi**: Jakarta Selatan.
+- **Jenis sertifikat dominan**: [isi: SHM/Lainnya] ([isi]%).
+
+**Seluruh Jabodetabek**
+- **Jumlah kamar tidur dan kamar mandi terbanyak**: [isi]
+- **Luas tanah dan luas bangunan terbanyak**: [isi]
+- **Rentang harga terbanyak per wilayah**: [isi]
+
+## 💡 Insight Utama
+
+- **Kualitas data memengaruhi keandalan analisis.** Missing value yang tinggi, satuan yang tidak seragam, dan definisi variabel yang tidak jelas membatasi tingkat kepercayaan terhadap hasil analisis.
+- **Terdapat perbedaan harga yang jelas antarwilayah.** Jakarta berada di segmen harga tertinggi, sedangkan Tangerang, Depok, dan Bekasi relatif lebih terjangkau.
+- **Kombinasi lokasi strategis dan harga terjangkau menjadikan Depok kandidat yang menarik** untuk kantor cabang berikutnya.
+
+
+## ✅ Rekomendasi
+
+### 1. Ekspansi Bisnis
+Pertimbangkan **Depok** sebagai lokasi kantor cabang RPPI berikutnya, berdasarkan lokasinya yang strategis dan harga properti yang relatif terjangkau dibandingkan Jakarta.
+### 2. Tata Kelola Data
+Bangun standar pengelolaan data yang lebih jelas, mencakup:
+- **Data dictionary**: definisi yang jelas untuk setiap variabel (misalnya luas bangunan).
+- **Standarisasi**: format dan satuan yang seragam di seluruh sumber data.
+- **Pembaruan dan validasi berkala**: agar data tetap konsisten, akurat, dan reliable untuk mendukung pengambilan keputusan bisnis.
