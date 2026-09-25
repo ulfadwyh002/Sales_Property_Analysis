@@ -1,6 +1,7 @@
 # 🏠Analisis Pasar Properti Jabodetabek untuk Ekspansi Kantor Cabang RPPI
-> Collaborative Project — Data Analyst & Researcher
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jabodetabek](https://img.shields.io/badge/Jabodetabeks%20Property-3776AB?style=flat)
+![Collaborative](https://img.shields.io/badge/Collaborative%20Project-3776AB?style=flat)
 ## 📌 Overview
 
 Project ini merupakan analisis data properti di wilayah Jabodetabek yang dilakukan untuk memahami kondisi pasar properti, karakteristik harga antarwilayah, serta mengidentifikasi pertimbangan yang dapat digunakan dalam menentukan lokasi ekspansi kantor cabang. Analisis berfokus pada kualitas dan kesiapan data, perbedaan harga properti antarwilayah, serta karakteristik properti yang dapat mendukung proses pengambilan keputusan berbasis data.
