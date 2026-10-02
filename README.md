@@ -4,13 +4,13 @@
 ![Collaborative](https://img.shields.io/badge/Collaborative%20Project-3776AB?style=flat)
 ## 📌 Overview
 
-Project ini merupakan analisis data properti di wilayah Jabodetabek yang dilakukan untuk memahami kondisi pasar properti, karakteristik harga antarwilayah, serta mengidentifikasi pertimbangan yang dapat digunakan dalam menentukan lokasi ekspansi kantor cabang. Analisis berfokus pada kualitas dan kesiapan data, perbedaan harga properti antarwilayah, serta karakteristik properti yang dapat mendukung proses pengambilan keputusan berbasis data.
+Project ini merupakan analisis data properti di wilayah Jabodetabek yang dilakukan untuk memahami kondisi pasar properti, perbedaan harga antarwilayah, serta karakteristik rumah yang ditawarkan di masing-masing wilayah. Analisis berfokus pada kualitas dan kesiapan data, pola harga properti, serta karakteristik properti untuk menghasilkan insight mengenai kondisi pasar berdasarkan data listing yang tersedia.
 
 ## 🎯 Business Questions
 
 1. Bagaimana kualitas dan karakteristik data properti yang tersedia?
 2. Bagaimana perbedaan harga properti antarwilayah Jabodetabek?
-3. Wilayah mana yang dapat menjadi alternatif pertimbangan untuk ekspansi kantor cabang berdasarkan kondisi pasar properti?
+3. Rumah dengan karakteristik seperti apa yang paling banyak ditawarkan di pasar?
 
 ## 🔄 Metodologi
 
