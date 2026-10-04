@@ -27,7 +27,7 @@ Project ini merupakan analisis data properti di wilayah Jabodetabek yang dilakuk
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Kualitas data masih perlu ditingkatkan**              | Ditemukan proporsi *missing value* yang cukup tinggi pada beberapa kota, ketidakkonsistenan satuan pada variabel numerik, serta beberapa variabel yang belum memiliki definisi yang jelas, seperti luas bangunan. |
 | **Jakarta memiliki harga properti tertinggi**           | Harga properti di Jakarta cenderung lebih tinggi dibandingkan Tangerang, Depok, dan Bekasi, menunjukkan adanya perbedaan karakteristik pasar antarwilayah.                                                        |
-| ** Karakteristik Rumah** | rumah dengan karakteristik yang paling sering terjual adalah rumah dengan luas tanah 60 m², luas bangunan 36 m², 2 kamar mandi, 2 kamar tidur, tanpa garasi, dan memiliki 1 carport.
+| **Karakteristik Rumah** | rumah dengan karakteristik yang paling sering terjual adalah rumah dengan luas tanah 60 m², luas bangunan 36 m², 2 kamar mandi, 2 kamar tidur, tanpa garasi, dan memiliki 1 carport.
 |
 | **Depok menjadi salah satu alternatif lokasi ekspansi** | Depok memiliki posisi yang relatif strategis untuk menjangkau beberapa wilayah Jabodetabek, dengan harga properti yang cenderung lebih terjangkau dibandingkan Jakarta.                                           |
 
