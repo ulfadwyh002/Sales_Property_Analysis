@@ -42,6 +42,5 @@ Namun, keputusan ekspansi tidak sebaiknya hanya didasarkan pada harga properti. 
 * **Pandas** — Data Manipulation
 * **Matplotlib / Seaborn** — Data Visualization
 * **Power BI / Tableau** — Interactive Dashboard
-* **Excel** — Data Exploration & Validation
 
 
